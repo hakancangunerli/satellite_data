@@ -13,4 +13,7 @@ polars
 # References:
 
 https://pola-rs.github.io/polars-book/user-guide/
+
 https://github.com/pola-rs/polars/issues/4092]
+
+https://stackoverflow.com/questions/70171463/searching-a-dataframe-in-polars
